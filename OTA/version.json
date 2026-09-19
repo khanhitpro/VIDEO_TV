@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "downloadUrl": "https://raw.githubusercontent.com/khanhitpro/VIDEO_TV/main/app-release.apk",
+  "changelog": "- Tự động mở phát video sau khi tải.\n- Sửa lỗi phân quyền hình nền trên Projectivy.\n- Tối ưu tốc độ tải qua CDN."
+}
